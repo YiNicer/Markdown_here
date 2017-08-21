@@ -1,5 +1,5 @@
 .markdown-here-wrapper {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.75em;
   letter-spacing: 0.1em;
   text-align: justify;
@@ -9,20 +9,20 @@
 pre, code {
 
   color: #0092DC;
-  font-size: 15px;
+  font-size: 16px;
   font-family: Roboto, 'Courier New', Consolas, Inconsolata, Courier, monospace;
   margin: auto 5px;
 }
 
 code {
-  background: #F4F4F4;
+  font-weight: bold;
   white-space: pre-wrap;
   border-radius: 2px;
   display: inline;
 }
 
 pre {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.75em;
   display: block !important;
 }
@@ -95,8 +95,8 @@ dl dd {
 blockquote, q {
   font-size: 14px !important;
   border-left: 3px solid #0092DC;
-  color: #819198;
-  background: #f2f4f7;
+  color: #6f6f6f;
+  background: #FbFbFb;
   quotes: none;
   margin-left: 1em;
 }
